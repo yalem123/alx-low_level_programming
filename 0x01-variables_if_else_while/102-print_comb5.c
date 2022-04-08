@@ -2,11 +2,11 @@
 /**
  * main - Entry point
  * combining two digit numbers
- * return: 0 Always
+ * Return: 0 Always
  */
 int main(void)
 {
-int dgt1,dgt2;
+int dgt1, dgt2;
 for (dgt1 = 0; dgt1 <= 98; dgt1++)
 {
 for (dgt2 = dgt1 + 1; dgt2 <= 99; dgt2++)
