@@ -11,7 +11,7 @@
 
 /* 
  * main - prints a random number and state whether its postive,negative or zero */
-int main(main)
+int main(void)
 {
 	int n;
 
