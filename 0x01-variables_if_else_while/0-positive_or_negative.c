@@ -8,8 +8,9 @@
  * return: Always 0.
  */
 
-/* 
- * main - prints a random number and state whether its postive,negative or zero */
+/** 
+ * main - prints if number is positive ,zero or negative.
+ */
 int main(void)
 {
 	int n;
@@ -22,8 +23,7 @@ int main(void)
 	else if (n < 0)
 	printf("%d is negative\n", n);
 	else
-	
 	printf("%d is zero\n", n);
 
-	return(0);
+	return (0);
 }
