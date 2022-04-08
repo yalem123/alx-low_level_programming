@@ -9,7 +9,7 @@
  */
 
 /** 
- * main - prints if number is positive ,zero or negative.
+ * main - prints any number and state whether it is postive,negative or zero.
  */
 int main(void)
 {
@@ -25,5 +25,5 @@ int main(void)
 	else
 	printf("%d is zero\n", n);
 
-	return (0);
+	return (:0);
 }
