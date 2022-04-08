@@ -2,11 +2,9 @@
 /**
  * main - Entry point
  * combination of three numbers
- * Return 0 Always
+ * Return: 0 Always
  */
-/**
- * main - prints all possible different combinations of three digits
- */
+
 int main(void)
 {
 int dgt1, dgt2, dgt3;
