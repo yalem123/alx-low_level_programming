@@ -3,8 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - This program will assign a random number to the variable n each time 
- *     executed and it will state whether n will be positive negegative or zero
+ * main - prints if number is positive ,zero or negative.
  *
  * return: Always 0.
  */
