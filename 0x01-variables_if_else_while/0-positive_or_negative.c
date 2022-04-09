@@ -2,8 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main - prints if number is positive ,zero or negative
- * Return: 0 Always 
+ * main - Entry point 
+ * Description - program will assign a random number
+ * Return: 0 Always
  */
 int main(void)
 {
