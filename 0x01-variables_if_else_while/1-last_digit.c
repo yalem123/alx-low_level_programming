@@ -12,8 +12,8 @@ int n,lastd;
 
 srand(time(0));
 n = rand() - RAND_MAX / 2;
-printf("Last digit of %d is %d )
+printf("Last digit of %d is '%d'")
 
-	return (0);
+return (0);
 }
 
