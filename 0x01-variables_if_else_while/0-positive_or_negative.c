@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * main-Entry point
+ * main - Entry point
  * Description - program will assign random number
  * Return: 0 Always
  */
