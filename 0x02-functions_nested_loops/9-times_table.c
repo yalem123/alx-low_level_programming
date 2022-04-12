@@ -13,7 +13,7 @@ res = (i * j);
 if (j!=0)
 {
 _putchar(',');
-_putchar('');
+_putchar(' ');
 }
 if (res>=10)
 {
@@ -22,7 +22,7 @@ _putchar((res % 10) + '0');
 }
 else if (res < 10 && j != 0)
 {
-_putchar('');
+_putchar(' ');
 _putchar((res % 10) + '0');
 }
 else
@@ -30,5 +30,6 @@ else
 _putchar((res % 10) + '0');
 }
 _putchar('\n');
+}
 }
 }
