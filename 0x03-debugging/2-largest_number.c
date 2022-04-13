@@ -21,5 +21,5 @@ else
 {
 largest = c;
 }
-return (largest_number);
+return (largest);
 }
