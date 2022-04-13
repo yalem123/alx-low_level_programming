@@ -8,15 +8,15 @@ int i, j, res;
 for (i = 0; i <= 9; i++)
 {
 _putchar('0');
-for (j =0; j <= 9; j++)
+for (j = 0; j <= 9; j++)
 {
 res = (i * j);
-if (j!= 0)
+if (j != 0)
 {
 _putchar(',');
 _putchar(' ');
 }
-if (res>= 10)
+if (res >= 10)
 {
 _putchar((res / 10) + '0');
 _putchar((res % 10) + '0');
