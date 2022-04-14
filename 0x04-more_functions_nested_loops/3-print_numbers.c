@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_numbers - prints the numbers zero upto nine
- * return: 0 Always
+ * Return: 0 Always
  */
 void print_numbers(void)
 {
