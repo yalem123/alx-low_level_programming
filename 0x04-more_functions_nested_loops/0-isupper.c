@@ -3,7 +3,7 @@
 /**
  * main - checks for uppercase character
  * @c: print int
- * Return: 1 if c is uppercase,0 otherwise
+ * Return: give 1 or 0
  */
 int _isupper(int c)
 {
