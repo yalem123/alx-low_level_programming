@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print diagonal - draws a diagonal line on the termina
+ * print_diagonal - draws a diagonal line using \ character
  * @n: limit
  */
 void print_diagonal(int n)
