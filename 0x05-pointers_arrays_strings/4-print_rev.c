@@ -1,11 +1,12 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * print_rev - function that prints a string, in reverse
  * @s: string
+ * Return: void
  */
 void print_rev(char *s)
 {
-int i;
+int i = 0;
 while (s[i])
 i++;
 while (i--)
