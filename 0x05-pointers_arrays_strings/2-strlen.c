@@ -6,11 +6,7 @@
  */
 int _strlen(char *s)
 {
-int i;
-i = 0;
-while (s[i] != '\0')
-{
-i++;
-}
+char su[] = "yalem";
+_putchar("Length of string is: %d", su[]);
 return (0);
 }
