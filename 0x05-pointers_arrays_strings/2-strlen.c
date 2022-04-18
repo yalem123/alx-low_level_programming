@@ -2,11 +2,15 @@
 /**
  * _strlen - function that returns the length of a string
  * @s: string
- * Return: 0 Always
+ * Return: length
  */
 int _strlen(char *s)
 {
-char su[] = "yalem";
-_putchar("Length of string is: %d", su[]);
-return (0);
+int u;
+u = 0;
+while (s[u] != '\0')
+{
+u++;
+}
+return (u);
 }
