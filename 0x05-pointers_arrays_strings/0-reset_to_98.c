@@ -5,11 +5,5 @@
  */
 void reset_to_98(int *n)
 {
-int n;
-int *p;
-n = 5;
-*p = &n;
-_putchar("value of n: %d\n", n);
-*p = 98;
-_putchar("value of n: %d\n", n);
+*n = 98;
 }
