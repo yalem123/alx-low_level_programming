@@ -6,7 +6,7 @@
  * @n: amount of byte
  * Return: a pointer to the resulting string dest
  */
-char *_strcat(char *dest, char *src)
+char *_strcat(char *dest, char *src, int n)
 {
 int count = 0, count2 = 0;
 while (*(dest + count) != '\0')
