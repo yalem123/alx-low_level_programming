@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _pow_recursion - function that returns the value of x 
+ * _pow_recursion - value of exponenet
  * @x: integer
- * @y: integer
- * Return: the value of exponentation
+ * @y: integer two
+ * Return: the exponent
  */
 int _pow_recursion(int x, int y)
 {
