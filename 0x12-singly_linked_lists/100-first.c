@@ -1,7 +1,7 @@
 #include <stdio.h>
 void __attribute__((constructor)) hare(void);
 /**
- * hare - Prints a string 
+ * hare - Prints a string
  */
 void hare(void)
 {
