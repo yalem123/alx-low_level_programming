@@ -46,6 +46,8 @@ if (head == add->p)
 printf("-> [%p] %d\n", (void *)head, head->n);
 free_listp(&hptr);
 return (nnodes);
+}
+}
 printf("[%p] %d\n", (void *)head, head->n);
 head = head->next;
 nnodes++;
