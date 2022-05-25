@@ -11,6 +11,7 @@ listint_t *n;
 p = NULL;
 n = NULL;
 while (*head != NULL)
+{
 n = (*head)->next;
 (*head)->next = p;
 p = *head;
